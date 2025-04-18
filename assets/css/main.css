@@ -1382,6 +1382,14 @@ section,
   margin-bottom: 50px;
 }
 
+
+.team .member {
+  position: relative;
+}
+.team .member .pic{
+  overflow: hidden;
+  height: 500px;
+}
 .team .member .member-info {
   background-color: var(--surface-color);
   color: color-mix(in srgb, var(--default-color), transparent 20%);
