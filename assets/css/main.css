@@ -1378,19 +1378,7 @@ section,
 }
 
 .call-to-action .cta-btn:hover {
-  background: color-mix(in srgb, var(--accent-color) 90%, white 15%);
-}
-
-/*--------------------------------------------------------------
-# Team Section
---------------------------------------------------------------*/
-.team .member {
-  position: relative;
-}
-
-.team .member .pic {
-  height: 500px;
-  overflow: hidden;
+  
   margin-bottom: 50px;
 }
 
